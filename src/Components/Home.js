@@ -23,6 +23,8 @@ function Home(){
                 setPassword(response.data.map(user => user.password));
             }
         });
+
+        console.log(user, password);
     }
 
     return(

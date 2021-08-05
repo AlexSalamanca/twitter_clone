@@ -1,5 +1,5 @@
 import React from 'react';
-import { BsStarFill, BsStar } from "react-icons/bs";
+import { BsStar } from "react-icons/bs";
 import { AiOutlineRetweet } from "react-icons/ai";
 
 function Tweet(props){

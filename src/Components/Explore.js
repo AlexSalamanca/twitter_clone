@@ -1,4 +1,4 @@
-import ReactSwitch, {useEffect, useState} from "react";
+import {useEffect, useState} from "react";
 import Posts from "./Posts";
 import Navbar from "./Navbar";
 

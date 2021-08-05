@@ -1,7 +1,7 @@
 import React from 'react'
 import { func, string } from 'prop-types';
 import styled from 'styled-components'
-import { BsSun, BsMoon } from "react-icons/bs";
+import { BsSun } from "react-icons/bs";
 
 const Button = styled.button`
   background: ${({ theme }) => theme.background};
